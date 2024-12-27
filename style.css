@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue; /* 背景を薄い青色にする */
+}
+
+h1 {
+    color: red; /* 見出しを赤色にする */
+    font-size: 36px; /* 見出しの文字サイズを大きくする */
+}
+
+p {
+    color: green; /* 文章を緑色にする */
+    font-size: 18px; /* 文章の文字サイズを18pxにする */
+}
